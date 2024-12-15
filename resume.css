@@ -1,0 +1,40 @@
+
+header {
+    background-color: #6200ea;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 1rem;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+h1{
+    color: gold;
+}
+span{
+    background-color: black;
+}
+p{
+    background-color: black;
+    color: white;
+}
+img{
+    align-items: center;
+}
+table{
+    background-color: black;
+    color: white;
+}
